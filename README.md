@@ -12,4 +12,7 @@ Impact: Enhanced healthcare outcomes by providing a tool for early detection and
 incidence of heart strokes and improving patient prognosis.# Heart-Disease-Prediction.
 
 
+![image_alt](https://github.com/Nitin9304/Heart-Stroke-Prediction-Using-ML/blob/3cbe426449d809264ffede80e2ca21bf28b34ee1/Flow%20chart.png)
+
+
 ![image_alt](https://github.com/Nitin9304/Heart-Stroke-Prediction-Using-ML/blob/cc8918518642054ee9f2c3a5e2e38c5c63ba938f/Accuracy.png)
