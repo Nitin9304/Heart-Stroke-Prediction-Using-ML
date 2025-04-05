@@ -17,3 +17,4 @@ incidence of heart strokes and improving patient prognosis.# Heart-Disease-Predi
 
 
 ![image_alt](https://github.com/Nitin9304/Heart-Stroke-Prediction-Using-ML/blob/cc8918518642054ee9f2c3a5e2e38c5c63ba938f/Accuracy.png)
+ Here, KNN gives the best Accuracy on this dataset.
