@@ -11,7 +11,7 @@ Healthcare Analytics
 Impact: Enhanced healthcare outcomes by providing a tool for early detection and prevention of heart strokes. The project contributed to reducing the 
 incidence of heart strokes and improving patient prognosis.# Heart-Disease-Prediction.
 
-![image_alt](https://github.com/Nitin9304/Heart-Stroke-Prediction-Using-ML/blob/e7cac8cefb00f0b3b4577bf904e71e57b26c613f/heart_.jpg)
+![image_alt](https://github.com/Nitin9304/Heart-Stroke-Prediction-Using-ML/blob/e7cac8cefb00f0b3b4577bf904e71e57b26c613f/heart_.jpg
 
 ![image_alt](https://github.com/Nitin9304/Heart-Stroke-Prediction-Using-ML/blob/1a67040a77b21335417098784a4cea0e2be7696f/Heart..jpg).
 
