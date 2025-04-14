@@ -6,7 +6,7 @@ including logistic regression, decision trees, and deep learning techniques. Ach
 for timely preventive measures and improved patient care.
 
 Skills Utilized: Machine Learning, Data Preprocessing, Feature Engineering, Python, Medical Data Analysis, Predictive Modeling, Model Evaluation,
-Healthcare Analytics.
+Healthcare Analytics
 
 Impact: Enhanced healthcare outcomes by providing a tool for early detection and prevention of heart strokes. The project contributed to reducing the 
 incidence of heart strokes and improving patient prognosis.# Heart-Disease-Prediction.
