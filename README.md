@@ -18,6 +18,7 @@ incidence of heart strokes and improving patient prognosis.# Heart-Disease-Predi
 
 
 ![image_alt](https://github.com/Nitin9304/Heart-Stroke-Prediction-Using-ML/blob/d5d4b4afad5e354a8ced0ebdbf84eb02c6c25b3b/Normal%20and%20Abnormal%20Heart.png)
+
  Difference between normal heart and abnormal heart 
 
 ![image_alt](https://github.com/Nitin9304/Heart-Stroke-Prediction-Using-ML/blob/3cbe426449d809264ffede80e2ca21bf28b34ee1/Flow%20chart.png)
