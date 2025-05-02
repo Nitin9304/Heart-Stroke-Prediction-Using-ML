@@ -13,7 +13,7 @@ incidence of heart strokes and improving patient prognosis.# Heart-Disease-Predi
 
 ![image_alt](https://github.com/Nitin9304/Heart-Stroke-Prediction-Using-ML/blob/e7cac8cefb00f0b3b4577bf904e71e57b26c613f/heart_.jpg)
 
-![alt_image]
+![alt_image](https://github.com/Nitin9304/Heart-Stroke-Prediction-Using-ML/blob/40dce516c1f6d59e605173f891f3e8586123e32c/be.gif)
 
 ![image_alt](https://github.com/Nitin9304/Heart-Stroke-Prediction-Using-ML/blob/1a67040a77b21335417098784a4cea0e2be7696f/Heart..jpg)
 
