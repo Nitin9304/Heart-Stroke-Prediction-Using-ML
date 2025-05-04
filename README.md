@@ -11,6 +11,8 @@ Skills Utilized: Machine Learning, Data Preprocessing, Feature Engineering, Pyth
 Impact: Enhanced healthcare outcomes by providing a tool for early detection and prevention of heart strokes. The project contributed to reducing the 
 incidence of heart strokes and improving patient prognosis.# Heart-Disease-Prediction.
 
+https://github.com/Nitin9304/Heart-Stroke-Prediction-Using-ML/blob/456ffb4bc4dbf96dcd2f95b1c38b638358294c17/Recording%202025-05-05%20000744.mp4
+
 ![image_alt](https://github.com/Nitin9304/Heart-Stroke-Prediction-Using-ML/blob/e7cac8cefb00f0b3b4577bf904e71e57b26c613f/heart_.jpg)
 
 ![alt_image](https://github.com/Nitin9304/Heart-Stroke-Prediction-Using-ML/blob/40dce516c1f6d59e605173f891f3e8586123e32c/be.gif)
