@@ -15,7 +15,9 @@ https://github.com/user-attachments/assets/e7cd8ff3-3edd-4fba-b055-8a4d3b6cf380
 
 ![image_alt](https://github.com/Nitin9304/Heart-Stroke-Prediction-Using-ML/blob/e7cac8cefb00f0b3b4577bf904e71e57b26c613f/heart_.jpg)
 
-To reduce the risk of stroke 
+# To reduce the risk of stroke 
+
+
 focus on adopting a healthy lifestyle that includes a heart-healthy diet, regular physical activity, maintaining a healthy weight, and managing underlying medical conditions like high blood pressure and diabetes. Additionally, avoid smoking and limit alcohol consumption. Regular medical check-ups and screenings, including cholesterol and blood pressure checks, are also crucial for early detection and prevention. 
 
 ![alt_image](https://github.com/Nitin9304/Heart-Stroke-Prediction-Using-ML/blob/40dce516c1f6d59e605173f891f3e8586123e32c/be.gif)
