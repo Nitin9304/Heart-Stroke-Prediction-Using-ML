@@ -1,4 +1,4 @@
-Heart Stroke Prediction Using Machine Learning Techniques
+# Heart Stroke Prediction Using Machine Learning Techniques
 
  Developed a machine learning model for early detection of heart stroke risk factors.
 Utilized a diverse dataset of medical records and clinical data to train predictive models. Employed various machine learning algorithms, 
