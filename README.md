@@ -9,7 +9,8 @@ Skills Utilized: Machine Learning, Data Preprocessing, Feature Engineering, Pyth
  Healthcare Analytics.
 
 Impact: Enhanced healthcare outcomes by providing a tool for early detection and prevention of heart strokes. The project contributed to reducing the 
-incidence of heart strokes and improving patient prognosis.# Heart-Disease-Prediction.
+incidence of heart strokes and improving patient prognosis.
+# Heart-Disease-Prediction.
 
 https://github.com/user-attachments/assets/e7cd8ff3-3edd-4fba-b055-8a4d3b6cf380
 
